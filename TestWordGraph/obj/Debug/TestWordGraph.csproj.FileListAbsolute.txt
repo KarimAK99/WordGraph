@@ -1,0 +1,11 @@
+G:\WordGraph\TestWordGraph\bin\Debug\TestWordGraph.exe.config
+G:\WordGraph\TestWordGraph\obj\Debug\TestWordGraph.csprojResolveAssemblyReference.cache
+G:\WordGraph\TestWordGraph\bin\Debug\TestWordGraph.exe
+G:\WordGraph\TestWordGraph\bin\Debug\TestWordGraph.pdb
+G:\WordGraph\TestWordGraph\bin\Debug\WordGraph.dll
+G:\WordGraph\TestWordGraph\bin\Debug\WordGraph.pdb
+G:\WordGraph\TestWordGraph\obj\Debug\TestWordGraph.exe
+G:\WordGraph\TestWordGraph\obj\Debug\TestWordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\bin\Debug\TestWordGraph.exe.config
+C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\obj\Debug\TestWordGraph.exe
+C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\obj\Debug\TestWordGraph.pdb

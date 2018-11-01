@@ -1,0 +1,4 @@
+G:\WordGraph\WordGraph\bin\Debug\WordGraph.dll
+G:\WordGraph\WordGraph\bin\Debug\WordGraph.pdb
+G:\WordGraph\WordGraph\obj\Debug\WordGraph.dll
+G:\WordGraph\WordGraph\obj\Debug\WordGraph.pdb
