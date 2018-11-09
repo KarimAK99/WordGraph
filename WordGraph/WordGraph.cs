@@ -24,10 +24,36 @@ namespace WordAnalysis
 
         private Dictionary<string, Node> wordGraph = new Dictionary<string, Node>();
 
-        private string lastAddedWord = null;
+        private Node lastAddedWord = null;
 
         public void AddWordToWordGraph(string word)
         {
+
+            Node node = new Node();
+            node.word = word;
+
+            if (!lastAddedWord.edges.ContainsKey(word))
+            {
+                Edge edge = new Edge();
+                edge.fromNode = lastAddedWord;
+                edge.toNode = node;
+                edge.weight = 1;
+
+                lastAddedWord.edges.Add(word, edge);
+            }
+            else
+            {
+                Edge edge = null;
+                lastAddedWord.edges.TryGetValue(word, out edge);
+
+                edge.weight = edge.weight + 1;
+            }
+            if (!wordGraph.ContainsKey(word))
+            {
+                wordGraph.Add(word, node);
+            }
+
+            lastAddedWord = node;
         }
 
         public void FinalizeGraph()

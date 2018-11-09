@@ -2,3 +2,9 @@ G:\WordGraph\WordGraph\bin\Debug\WordGraph.dll
 G:\WordGraph\WordGraph\bin\Debug\WordGraph.pdb
 G:\WordGraph\WordGraph\obj\Debug\WordGraph.dll
 G:\WordGraph\WordGraph\obj\Debug\WordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\bin\Debug\WordGraph.dll
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\bin\Debug\WordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\obj\Debug\WordGraph.csprojAssemblyReference.cache
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\obj\Debug\WordGraph.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\obj\Debug\WordGraph.dll
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\WordGraph\obj\Debug\WordGraph.pdb
