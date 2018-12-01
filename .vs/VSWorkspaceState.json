@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TestWordGraph",
+    "\\TestWordGraph\\bin",
+    "\\TestWordGraph\\bin\\Debug",
+    "\\TestWordGraph\\obj",
+    "\\TestWordGraph\\obj\\Debug",
+    "\\WordGraph"
   ],
   "SelectedNode": "\\WordGraph.sln",
   "PreviewInSolutionExplorer": false

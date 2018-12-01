@@ -18,12 +18,24 @@ namespace TestWordGraph
         {
             try
             {
-                using (StreamReader sr = new StreamReader("ML.txt"))
+                using (StreamReader sr = new StreamReader(@"C: \Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\ML.txt"))
                 {
 
                     String line = sr.ReadToEnd();
-                    words = line.Split(' ');
 
+                    for (int i = 0; i < line.Length; i++)
+                    {
+                        char c = line[i];
+
+                        if (char.IsPunctuation(c))
+                        {
+                            line = line.Remove(i, 1);
+                            i--;
+                        }
+                    }
+
+                    words = line.Split(' ');
+                    
                 }
             }
             catch (Exception e)
@@ -32,10 +44,14 @@ namespace TestWordGraph
                 Console.WriteLine(e.Message);
             }
 
-            for (int i = 0; i < words.Length; i++)
+            wordGraph.SetLastAddedWord(words.GetValue(0));
+
+            for (int i = 1; i < words.Length; i++)
             {
                 wordGraph.AddWordToWordGraph((String)words.GetValue(i));
             }
+
+            wordGraph.PrintWordGraph();
         }
 
     }

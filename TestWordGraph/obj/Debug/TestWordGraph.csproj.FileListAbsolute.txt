@@ -9,3 +9,13 @@ G:\WordGraph\TestWordGraph\obj\Debug\TestWordGraph.pdb
 C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\bin\Debug\TestWordGraph.exe.config
 C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\obj\Debug\TestWordGraph.exe
 C:\Users\Karim\Desktop\UWdatascience\C#\TestWordGraph\obj\Debug\TestWordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\bin\Debug\TestWordGraph.exe.config
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\bin\Debug\TestWordGraph.exe
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\bin\Debug\TestWordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\bin\Debug\WordGraph.dll
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\bin\Debug\WordGraph.pdb
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\obj\Debug\TestWordGraph.csprojAssemblyReference.cache
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\obj\Debug\TestWordGraph.csproj.CoreCompileInputs.cache
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\obj\Debug\TestWordGraph.csproj.CopyComplete
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\obj\Debug\TestWordGraph.exe
+C:\Users\Karim\Desktop\UWdatascience\C#\SeqFinder\TestWordGraph\obj\Debug\TestWordGraph.pdb
